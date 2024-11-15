@@ -2,4 +2,4 @@
 
 
 
-<log src="./Xor.png"/>
+<img src="./Xor.png"/>
